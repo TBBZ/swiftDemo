@@ -160,10 +160,12 @@
 					F9FB3A641D4B06F5007B2E0C = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = DHVZ2PJ8DC;
+						LastSwiftMigration = 0800;
 					};
 					F9FB3A781D4B06F5007B2E0C = {
 						CreatedOnToolsVersion = 7.3.1;
 						DevelopmentTeam = DHVZ2PJ8DC;
+						LastSwiftMigration = 0800;
 						TestTargetID = F9FB3A641D4B06F5007B2E0C;
 					};
 				};
@@ -347,6 +349,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.taobao.TBBZ-swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -358,6 +361,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.taobao.TBBZ-swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -368,6 +372,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.taobao.TBBZ-swiftUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = TBBZ_swift;
 			};
 			name = Debug;
@@ -379,6 +384,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.taobao.TBBZ-swiftUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = TBBZ_swift;
 			};
 			name = Release;
